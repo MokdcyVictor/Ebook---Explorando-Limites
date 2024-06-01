@@ -1,6 +1,6 @@
 # Ebook - Explorando-Limites
 
-<img src=".png" alt="exemplo imagem">
+<img src="_ec5423aa-af3b-415c-9fa0-3623e5bccef0.jpg" alt="exemplo imagem">
 
 ## 📄 Meta:
 
